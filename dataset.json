@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Carson, California. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Carson, California, US",
+  "export_job_id": "d77f7338-4273-4627-9d28-7b8fcc6079a8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 897145,
+  "location_name": "Carson",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-carson-california-us-sample-897145",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/897145/beamstation_897145_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 27,
+  "sample_sha256": "8bd39d52d83993affed72d2efdecfb64ba5eb2a49b73ad9ef999584d4e793e7d",
+  "sample_size_bytes": 99116,
+  "total_records": 271,
+  "updated_at": "2026-04-07T10:37:11.558083+00:00"
+}
