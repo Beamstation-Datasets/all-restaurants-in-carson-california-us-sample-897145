@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Carson, California. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Carson, California, US",
-  "export_job_id": "d77f7338-4273-4627-9d28-7b8fcc6079a8",
+  "export_job_id": "36bdbfd8-aaf1-4297-a66f-867c85a79d3d",
   "github_org": "Beamstation-Datasets",
   "id_short": 897145,
   "location_name": "Carson",
@@ -18,5 +18,5 @@
   "sample_sha256": "8bd39d52d83993affed72d2efdecfb64ba5eb2a49b73ad9ef999584d4e793e7d",
   "sample_size_bytes": 99116,
   "total_records": 271,
-  "updated_at": "2026-04-07T10:37:11.558083+00:00"
+  "updated_at": "2026-04-14T10:27:13.955503+00:00"
 }
