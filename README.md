@@ -1,6 +1,6 @@
 # All Restaurants in Carson, California, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `897145` |
 | Location | Carson |
 | Category | Restaurants |
-| Full dataset size | 271 records |
-| Free sample size | 27 records (9.96%) |
-| Last export | 2026-04-14T10:27:13.955503+00:00 |
+| Full dataset size | 269 records |
+| Free sample size | 26 records (9.67%) |
+| Last export | 2026-04-21T10:41:50.428996+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-carson-california-us-sample-897145/releases/download/sample-latest/beamstation_897145_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
