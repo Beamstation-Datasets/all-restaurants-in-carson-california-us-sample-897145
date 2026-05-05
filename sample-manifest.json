@@ -1,12 +1,12 @@
 {
-  "export_job_id": "36aee450-6237-405a-b772-17053bbf9658",
+  "export_job_id": "26f2c8f6-b2b9-45ae-91e8-b0b5580d9de1",
   "id_short": 897145,
-  "published_at": "2026-04-28T19:58:53Z",
+  "published_at": "2026-05-05T19:15:29Z",
   "repo_name": "all-restaurants-in-carson-california-us-sample-897145",
   "sample_asset_name": "beamstation_897145_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/897145/beamstation_897145_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "0205d45a8b3b32352a7caa68e889cf6aa15e19f2735d9ca7f9f4b4388aac23a4",
-  "sample_size_bytes": 50262,
-  "total_records": 118
+  "sample_records": 26,
+  "sample_sha256": "68b432a5e6eb256fffcd591a5b6ef9245bc325f437720d114916d67e492bd210",
+  "sample_size_bytes": 102201,
+  "total_records": 269
 }
